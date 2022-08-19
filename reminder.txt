@@ -1,0 +1,3 @@
+flow spring
+1. controller memanggil service
+2. service memanggil repostory
